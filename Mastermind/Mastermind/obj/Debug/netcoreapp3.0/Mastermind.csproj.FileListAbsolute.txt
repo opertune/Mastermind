@@ -1,0 +1,13 @@
+C:\projet\Si4\Mastermind\Mastermind\bin\Debug\netcoreapp3.0\Mastermind.exe
+C:\projet\Si4\Mastermind\Mastermind\bin\Debug\netcoreapp3.0\Mastermind.deps.json
+C:\projet\Si4\Mastermind\Mastermind\bin\Debug\netcoreapp3.0\Mastermind.runtimeconfig.json
+C:\projet\Si4\Mastermind\Mastermind\bin\Debug\netcoreapp3.0\Mastermind.runtimeconfig.dev.json
+C:\projet\Si4\Mastermind\Mastermind\bin\Debug\netcoreapp3.0\Mastermind.dll
+C:\projet\Si4\Mastermind\Mastermind\bin\Debug\netcoreapp3.0\Mastermind.pdb
+C:\projet\Si4\Mastermind\Mastermind\obj\Debug\netcoreapp3.0\Mastermind.csprojAssemblyReference.cache
+C:\projet\Si4\Mastermind\Mastermind\obj\Debug\netcoreapp3.0\Mastermind.AssemblyInfoInputs.cache
+C:\projet\Si4\Mastermind\Mastermind\obj\Debug\netcoreapp3.0\Mastermind.AssemblyInfo.cs
+C:\projet\Si4\Mastermind\Mastermind\obj\Debug\netcoreapp3.0\Mastermind.dll
+C:\projet\Si4\Mastermind\Mastermind\obj\Debug\netcoreapp3.0\Mastermind.pdb
+C:\projet\Si4\Mastermind\Mastermind\obj\Debug\netcoreapp3.0\Mastermind.csproj.CoreCompileInputs.cache
+C:\projet\Si4\Mastermind\Mastermind\obj\Debug\netcoreapp3.0\Mastermind.genruntimeconfig.cache

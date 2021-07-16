@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "eUUGgJLrHJJXsDaO5qiHv7bABmF+WZKFQeuWOR/9xm53TUiY1b0X7Rk7/kMiDgk0PWWJdR3hqTzU7SMsZaWgHQ==",
+  "success": true,
+  "projectFilePath": "C:\\projet\\Si4\\Mastermind\\Mastermind\\Mastermind.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\romain\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\romain\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\romain\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\romain\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
